@@ -360,3 +360,4 @@ Ctrl + C
 ## 📄 License
 
 This project currently uses the **ISC** license as specified in `package.json`.
+
